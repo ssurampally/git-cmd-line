@@ -29,6 +29,11 @@ $ git commit -m "information text"
 then Push the changes to remote repo.
 $ git push origin main
 
+you can also stage, Commit and Push from VS code Git graphically.
+ just make sure your giving user email and name in global config parameter.
+
+$ git config --global user.email "sreekanth.surampally@gmail.com"
+$ git config --global user.name "ssurampally"
 --------------------------------------------
 
 
