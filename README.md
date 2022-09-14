@@ -18,5 +18,19 @@ $ git clone <https repo url>.
 
 Open the local repo folder in VS Code Editor., then you can see currently checkout branch.
 
+once the file is modified or a new file created. Save it in the Workspace. it turns to M version. 
+
+Stage the changes by running below command
+$ git add .
+
+then commit the changes 
+$ git commit -m "information text"
+
+then Push the changes to remote repo.
+$ git push origin main
+
+--------------------------------------------
+
+
 
 
