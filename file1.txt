@@ -1,1 +1,1 @@
-first conflict
+first not a conflict
