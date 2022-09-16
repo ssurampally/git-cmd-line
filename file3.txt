@@ -1,3 +1,6 @@
+third file - dev and master conflict
+
 third file
 
 direct commit
+
