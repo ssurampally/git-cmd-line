@@ -36,6 +36,22 @@ $ git config --global user.email "sreekanth.s29@gmail.com"
 $ git config --global user.name "sreekanth"
 --------------------------------------------
 
+to Swtich different branch and checkout
+$ git checkout branch <branch_name>
 
+to fetch and merge the remote changes to local branch
+$ git pull origin <branch_name>
 
+----------------------
+to display the commit history.
+$ git log
+
+------------------------
+
+rest to a commit
+$ git reset --hard <commit_number>
+
+----------------
+if you wanted to do force push.. without worrying about pulling to local first
+$ git push origin <branch> -f
 
